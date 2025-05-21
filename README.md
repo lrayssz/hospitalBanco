@@ -15,4 +15,5 @@ Prescrição de Receitas: Medicamentos prescritos, quantidade e instruções.
 Cadastro de Convênios: Nome, CNPJ e tempo de carência.
 Gestão de Especialidades e Cargos: Informações para relacionamento com médicos.
 
-![hospitalBanco](https://github.com/user-attachments/assets/4f81ac28-9870-4ef4-8e28-af6a34d7f358)
+
+![hospitalBanco (1)](https://github.com/user-attachments/assets/bc864f15-852f-4c4b-bf2b-a25f01c7ec62)
